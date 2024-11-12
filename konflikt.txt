@@ -1,1 +1,3 @@
 Pierwsza linia
+Linia z gałezi 1
+linia z głównej gałezi
